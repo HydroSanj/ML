@@ -1,0 +1,1 @@
+Concentration inequalities give us bounds on how a Random Variable deviates from some value, or in other words, how is the Random Variable concentrated around some value, typically its expected value (mean)
